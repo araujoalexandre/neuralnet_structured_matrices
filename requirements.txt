@@ -1,7 +1,7 @@
 yaml
 absl-py
 git+https://github.com/tensorflow/cleverhans.git@master
-tensorflow-gpu==1.14
+tensorflow-gpu==2.3.1
 torch
 torchvision
 
